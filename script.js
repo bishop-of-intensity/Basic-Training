@@ -10,7 +10,7 @@ var stopLoad4_portrait = 0;
 const main = $('#main');
 var link;
 const links = {
-    github: 'https://github.com/bishop_of_intensity',
+    github: 'https://github.com/bishop-of-intensity',
     instagram: 'https://www.instagram.com/bishop_of_intensity/',
     youtube: 'https://www.youtube.com/watch?v=dHlEkDS2e3Y&list=PLsQAu16Tm0oeWber2C34rY2CPb9NAnA-z&index=1',
     AEQ: 'https://bishop-of-intensity.github.io/An-Epic-Quest/'
