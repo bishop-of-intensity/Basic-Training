@@ -56,23 +56,23 @@ $('.expander').click(function() {
 });
 
 
-setTimeout(function() {
-    $('#arm-wrestling_wrapper').addClass('loaded');
-}, 1000)
+// setTimeout(function() {
+//     $('#arm-wrestling_wrapper').addClass('loaded');
+// }, 1000)
 
-$('.AW-Minimize').click(function() {
-    $(this).parent().parent().addClass('AW-closed');
-    $(this).parent().parent().removeClass('AW-expanded');
-});
+// $('.AW-Minimize').click(function() {
+//     $(this).parent().parent().addClass('AW-closed');
+//     $(this).parent().parent().removeClass('AW-expanded');
+// });
 
-$('.AW-Maximize').click(function() {
-    $(this).parent().parent().removeClass('AW-closed');
-    $(this).parent().parent().addClass('AW-expanded');
-});
+// $('.AW-Maximize').click(function() {
+//     $(this).parent().parent().removeClass('AW-closed');
+//     $(this).parent().parent().addClass('AW-expanded');
+// });
 
-$('.AW-link').click(function() {
-    window.open('https://andrei-pascu.github.io/Arm-Wrestling/', '_blank');
-})
+// $('.AW-link').click(function() {
+//     window.open('https://andrei-pascu.github.io/Arm-Wrestling/', '_blank');
+// })
 
 
 
