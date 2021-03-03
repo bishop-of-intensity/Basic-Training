@@ -10,10 +10,10 @@ var stopLoad4_portrait = 0;
 const main = $('#main');
 var link;
 const links = {
-    github: 'https://github.com/andrei-pascu',
-    instagram: 'https://www.instagram.com/cristianandpascu_for_alexand_g/',
+    github: 'https://github.com/bishop_of_intensity',
+    instagram: 'https://www.instagram.com/bishop_of_intensity/',
     youtube: 'https://www.youtube.com/watch?v=dHlEkDS2e3Y&list=PLsQAu16Tm0oeWber2C34rY2CPb9NAnA-z&index=1',
-    AEQ: 'https://andrei-pascu.github.io/An-Epic-Quest/'
+    AEQ: 'https://bishop-of-intensity.github.io/An-Epic-Quest/'
 }
 
 
