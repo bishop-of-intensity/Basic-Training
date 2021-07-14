@@ -381,6 +381,15 @@ var exerciseDB = {
         type: 'Isolation',
         details: "Supinated grip, elbow resting on your torso, torso slightly bent beckwards so when fully stretched your arm doesn't reach perpendicular to the ground. Rom (0->25%)."
     },
+    CurlE5: {
+        name: 'Biceps Pronated Curl',
+        group1: 'Brachioradial',
+        group2: '_',
+        focus: 'Stretch',
+        joints: 'Lower Biceps, Wrists',
+        type: 'Isolation',
+        details: "Fully Pronated Hand, Full Reps / 25%-75%."
+    },
 
 
     CurlL1: {
@@ -449,10 +458,19 @@ var exerciseDB = {
         type: 'Isolation',
         details: 'Cloth Between Thumb & Index + Cloth Comes From Outside The Arm. Pronate Hand.'
     },
+    WF5: {
+        name: 'Wrist Outer Supination',
+        group1: 'Forearm',
+        group2: '_',
+        focus: 'Minimal Wrist Pain',
+        joints: 'Wrists',
+        type: 'Isolation',
+        details: 'Cloth Between Thumb & Index + Cloth Comes From Inside The Arm. From Full Pronation To Neutral Or More.'
+    },
 
 
     WB1: {
-        name: 'Wrist Curl + Supination',
+        name: 'Wrist Inner Supination',
         group1: 'Forearm',
         group2: '_',
         focus: 'Peak Contraction',
@@ -488,7 +506,7 @@ var exerciseDB = {
         details: 'Pronated grip, extend hand, keep your hand facing your body. Contract At The Top.'
     },
     WB5: {
-        name: 'Finger Extension',
+        name: 'Finger Flexion',
         group1: 'Hand',
         group2: '_',
         focus: '',
@@ -496,6 +514,16 @@ var exerciseDB = {
         type: 'Isolation',
         details: 'Grab all your fingers with the opposite arm, spread you fingers apart (this can be done as partials, from a closed hand to fully extended fingers).'
     },
+    WB6: {
+        name: 'Finger Flexion',
+        group1: 'Hand',
+        group2: '_',
+        focus: '',
+        joints: 'Fingers',
+        type: 'Isolation',
+        details: 'Elbows Up, Hold Cloth End With One Arm, The Other Uses The Loop To Flex The Fingers. Put More Tension By Pullin With The Other Arm.'
+    },
+
 
 
     LarRR: {
