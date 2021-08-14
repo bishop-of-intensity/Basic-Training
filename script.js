@@ -542,7 +542,7 @@ var exerciseDB = {
         focus: 'Make The Movement Feel Natural',
         joints: 'Neck Strains',
         type: 'Isolation',
-        details: 'These Are 2 parts, lateral and extension (backwards). Lateral, Hold over the side of your head, lower and raise till perpendicular to the ground, for both sides. Extension, both arms behind your neck/head, bend your head forwards then extend till perpendicular.'
+        details: 'These Are 3 parts, flexion, lateral and extension (backwards). Flexion, Press Your Fists Into Your Chin, Max Flex -> Head Bent Backwards. Lateral, Hold over the side of your head, lower and raise, for both sides. Extension, both arms behind your neck/head, bend your head forwards then extend.'
     },
     TrunkM: {
         name: 'Standing Trunk Movement',
