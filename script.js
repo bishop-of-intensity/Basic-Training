@@ -229,7 +229,7 @@ var exerciseDB = {
         focus: 'Having Enough Range Of Motion',
         joints: 'Shoulders',
         type: 'Isolation',
-        details: 'Hammer Grip of the cloth, concentrate and find how to move in order to get the most ROM possible & contraction throught the movement.'
+        details: 'Hammer Grip of the cloth, concentrate and find how to move in order to get the most ROM possible & contraction throughout the movement.'
     },
     ShadowSa: {
         name: 'Padded/Shadow 👊',
@@ -292,7 +292,7 @@ var exerciseDB = {
         focus: 'Coordination',
         joints: 'Hips, Knees',
         type: 'Strength-Mobility',
-        details: "Go From Side To SIde, Heel To Heel --- Thighs & Knees -> point in the same direction as the tips of the feet. --- Knees Pushed To The Outside. Knees Don't Cave In!!"
+        details: "Go From Side To Side, Heel To Heel --- Thighs & Knees -> point in the same direction as the tips of the feet. --- Knees Pushed To The Outside. Knees Don't Cave In!!"
     },
     PJumps: {
         name: 'Jumps',
@@ -322,7 +322,7 @@ var exerciseDB = {
         focus: 'Lats, Mid-Back',
         joints: 'Lower Back',
         type: 'Pulldown',
-        details: '(Can Also Be Done 1 Armed) Imagine Doing A Heavy Mid->Top Pullup Partial. On your knees, facing a raised platform, forearms (weight on elbows) on the platform (like a bed/chair), hips raised until 30-60-deg knee bend, torso 45-deg to the ground, arms higher than perpendicularto your body. Pulldown till your lats are fully contracted and you can pull no more, or your arms are perpendicular to the ground, hips will come forward, come back to the initial position.'
+        details: '(Can Also Be Done 1 Armed) Imagine Doing A Heavy Mid->Top Pullup Partial. On your knees, facing a raised platform, forearms (weight on elbows) on the platform (like a bed/chair), hips raised until 30-60-deg knee bend, torso 45-deg to the ground, arms higher than perpendicular to your body. Pulldown till your lats are fully contracted and you can pull no more, or your arms are perpendicular to the ground, hips will come forward, come back to the initial position.'
     },
     RowLateral: {
         name: 'Row: 1 Arm',
@@ -340,7 +340,7 @@ var exerciseDB = {
         focus: 'Squeezing The Shoulder Blades',
         joints: 'Shoulder Blades',
         type: 'Isolation',
-        details: 'Hands on the ground, your trunk and legs form a 45deg Bend (you can bend your knees). From this position, with your shoulders lowered, rasie your shoulders until your trapezoid is fully contracted. *If this stance is much too easy (before this increase the tempos than decide), do it in a handstand.'
+        details: 'Hands on the ground, your trunk and legs form a 45deg Bend (you can bend your knees). From this position, with your shoulders lowered, raisee your shoulders until your trapezoid is fully contracted. *If this stance is much too easy (before this increase the tempos than decide), do it in a handstand.'
     },
 
 
@@ -361,7 +361,7 @@ var exerciseDB = {
         focus: 'Full ROM',
         joints: 'Lower Biceps, Wrists',
         type: 'Isolation',
-        details: "Hammer grip, elbow resting on your torso, torso slightly bent beckwards so when fully stretched your arm doesn't reach perpendicular to the ground. Do full rom."
+        details: "Hammer grip, elbow resting on your torso, torso slightly bent backwards so when fully stretched your arm doesn't reach perpendicular to the ground. Do full rom."
     },
     CurlE3: {
         name: 'Outer Biceps Curl',
@@ -370,7 +370,7 @@ var exerciseDB = {
         focus: 'Full ROM',
         joints: 'Lower Biceps, Wrists',
         type: 'Isolation',
-        details: "Arm Situated Towards The Outside, Keep That Position. Supinated grip, elbow resting on your torso, torso slightly bent beckwards so when fully stretched your arm doesn't reach perpendicular to the ground. Do full rom."
+        details: "Arm Situated Towards The Outside, Keep That Position. Supinated grip, elbow resting on your torso, torso slightly bent backwards so when fully stretched your arm doesn't reach perpendicular to the ground. Do full rom."
     },
     CurlE4: {
         name: 'Biceps Curl Bottom Partial',
@@ -379,7 +379,7 @@ var exerciseDB = {
         focus: 'Stretch',
         joints: 'Lower Biceps, Wrists',
         type: 'Isolation',
-        details: "Supinated grip, elbow resting on your torso, torso slightly bent beckwards so when fully stretched your arm doesn't reach perpendicular to the ground. Rom (0->25%)."
+        details: "Supinated grip, elbow resting on your torso, torso slightly bent backwards so when fully stretched your arm doesn't reach perpendicular to the ground. Rom (0->25%)."
     },
     CurlE5: {
         name: 'Biceps Pronated Curl',
@@ -560,7 +560,7 @@ var exerciseDB = {
         focus: 'Lower Back Continuously Crunched',
         joints: 'Lower Back, Front Hip',
         type: 'Compound',
-        details: 'Ass On Bench, Legs Lower Than The Bench. Execute both straight and rotated reps. Adjust Dificulty By How Far The Feet & Knees Are From The Body.'
+        details: 'Ass On Bench, Legs Lower Than The Bench. Execute both straight and rotated reps. Adjust Difficulty By How Far The Feet & Knees Are From The Body.'
     },
     Abs45: {
         name: 'Abs - 45deg',
